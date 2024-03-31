@@ -4,3 +4,6 @@
 ```js
 console.log("hey fang!");
 ```
+- [x] eat a watermelon.
+- [x] code.
+- [ ] repeat.
